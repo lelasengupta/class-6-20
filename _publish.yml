@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: a8e01981-483a-4ae6-b3ef-af19b74a898b
+      url: 'https://lelasengupta.quarto.pub/chicago-public-schools'
